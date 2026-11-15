@@ -1,0 +1,11 @@
+{
+  "status": "No candidate spots detected",
+  "spot_count": 0,
+  "leaf_pixels": 76858,
+  "spot_pixels": 0,
+  "affected_percent": 0.0,
+  "boxes": [],
+  "warnings": [],
+  "working_width": 640,
+  "working_height": 480
+}

@@ -1,0 +1,47 @@
+{
+  "status": "Candidate spots detected",
+  "spot_count": 5,
+  "leaf_pixels": 76858,
+  "spot_pixels": 5664,
+  "affected_percent": 7.369,
+  "boxes": [
+    {
+      "x": 264,
+      "y": 120,
+      "width": 37,
+      "height": 31,
+      "pixels": 924
+    },
+    {
+      "x": 344,
+      "y": 173,
+      "width": 45,
+      "height": 39,
+      "pixels": 1347
+    },
+    {
+      "x": 230,
+      "y": 228,
+      "width": 33,
+      "height": 45,
+      "pixels": 1123
+    },
+    {
+      "x": 324,
+      "y": 280,
+      "width": 52,
+      "height": 41,
+      "pixels": 1676
+    },
+    {
+      "x": 286,
+      "y": 347,
+      "width": 31,
+      "height": 25,
+      "pixels": 594
+    }
+  ],
+  "warnings": [],
+  "working_width": 640,
+  "working_height": 480
+}
